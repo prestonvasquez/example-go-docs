@@ -1,4 +1,4 @@
 package main
 
-// Foo is nice, use Foo.
-func Foo() {}
+// Foo2 is nice, use Foo2.
+func Foo2() {}
